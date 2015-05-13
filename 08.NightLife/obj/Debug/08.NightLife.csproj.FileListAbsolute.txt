@@ -1,0 +1,4 @@
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\08.NightLife\bin\Debug\08.NightLife.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\08.NightLife\bin\Debug\08.NightLife.pdb
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.pdb

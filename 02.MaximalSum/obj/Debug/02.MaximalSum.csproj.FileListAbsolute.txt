@@ -1,0 +1,5 @@
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

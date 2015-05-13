@@ -1,0 +1,5 @@
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

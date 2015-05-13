@@ -1,0 +1,5 @@
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+C:\Users\XANKO\Desktop\Multidimensional-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
